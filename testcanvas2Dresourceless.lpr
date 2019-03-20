@@ -19,7 +19,7 @@ begin
   //gvars.msg := gvars.T_toLang..Create('lang/Russian');
   RequireDerivedFormResource:=False;
   {app taskbar icon}
-  Application.Title:='main.unix.x86_64';
+  Application.Title:='testcanvas2Dresourceless.unix.x86_64';
 //set by project options
   Application.Icon.LoadFromFile(gvars.path_media_s+'MyIcon.ico');
   {end app taskbar icon}

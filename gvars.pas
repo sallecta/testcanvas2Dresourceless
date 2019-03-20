@@ -7,7 +7,7 @@ interface
 uses
   Classes, SysUtils, Forms,
   form_1,
-  toLang;//in components/laz_unitz/toLang
+  toLang;//in components/toLang
 
 type
   T_toLang = TtoLang; //get toLang object avialable in gvars
